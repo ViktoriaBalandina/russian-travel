@@ -1,0 +1,23 @@
+.place__image {
+    width: 100%;
+    border: 0;
+    box-sizing: content-box;
+    height: 100%;
+    align-self: start;
+    justify-items: start;
+    object-fit: cover;
+}
+
+@media screen and (max-width: 1023px) {
+    .place__image {
+        width: 340px;
+        height: 340px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .place__image {
+        width: 320px;
+        height: 320px;
+    }
+}

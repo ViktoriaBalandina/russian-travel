@@ -1,0 +1,20 @@
+.cover__background {
+    width: 100%;
+    position: absolute;
+    height: 100%;
+    transition: .2s;
+    background: rgba(0, 0, 0, 0.3);
+    z-index: 2;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.cover__background:hover {
+    background: rgba(0, 0, 0, 0.8);
+
+}

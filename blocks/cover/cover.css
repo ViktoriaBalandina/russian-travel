@@ -1,0 +1,6 @@
+.cover {
+    max-width: 1192px;
+    box-sizing: content-box;
+    margin: 0 auto;
+    /* padding: 0; */
+}
