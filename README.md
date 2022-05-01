@@ -1,6 +1,6 @@
 # Проект: Путешествие по России
 
-[Ссылка на проект](https://github.com/ViktoriaBalandina/russian-travel.git)
+[Ссылка на проект](https://viktoriabalandina.github.io/russian-travel/)
 
 ------
 Сайт с красивыми местами России.

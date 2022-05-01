@@ -23,7 +23,7 @@
 
 @media screen and (max-width: 1023px) {
   .place {
-    padding: 0 0 73px;
+    padding-bottom: 73px;
     grid-template-columns: minmax(min-content, 340px) minmax(min-content, 352px);
     column-gap: 28px;
   }
@@ -32,7 +32,7 @@
 @media screen and (max-width: 767px) {
   .place {
     display: flex;
-    padding: 0 0 50px;
+    padding-bottom: 50px;
     flex-direction: column;
     row-gap: 32px;
     flex-wrap: nowrap;

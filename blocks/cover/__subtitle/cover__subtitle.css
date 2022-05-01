@@ -2,13 +2,14 @@
     text-align: center;
     font-style: normal;
     font-weight: 400;
-    margin: 0;
+    margin: 0 auto;
+    z-index: 2;
 }
 
 @media screen and (min-width: 320px) {
     .cover__subtitle {
         padding: 0 16px;
-        min-width: 228px;
+        max-width: 260px;
         margin-top: 16px;
         font-size: 14px;
         line-height: 16px;

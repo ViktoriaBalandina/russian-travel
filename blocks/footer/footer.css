@@ -16,14 +16,14 @@
 
 @media screen and (max-width: 1023px) {
   .footer {
-    padding: 88px 0 24px;
+    padding-top: 88px;
     min-width: 720px;
   }
 }
 
 @media screen and (max-width: 767px) {
   .footer {
-    padding: 68px 0 24px;
+    padding-top: 68px;
     min-width: calc(320px - 16px * 2);
     align-items: flex-start;
     flex-direction: column;
